@@ -1,0 +1,14 @@
+.flex-center {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+.flex-bettween {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+}
+.w-fit {
+  width: fit-content !important;
+  flex: 0 0;
+}
